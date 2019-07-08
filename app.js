@@ -6,5 +6,5 @@ app.get("/", (req,res) => {
 });
 
 app.listen(3000, function(){
-	console.log("Up");
+	console.log("Servers Up");
 });
